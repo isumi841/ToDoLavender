@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- Main Purple -->
+    <color name="primary">#B8A1FF</color>
+
+    <!-- Darker Purple -->
+    <color name="accent">#9D8DF1</color>
+
+    <!-- Soft Lavender -->
+    <color name="secondary">#DDD6FE</color>
+
+    <!-- Background -->
+    <color name="background">#F9FAFB</color>
+
+    <!-- Cards -->
+    <color name="surface">#FFFFFF</color>
+
+    <color name="line_purple">#C4B5FD</color>
+    <!-- Text -->
+    <color name="text_primary">#111827</color>
+    <color name="text_muted">#6B7280</color>
+
+    <!-- Completed Tasks -->
+    <color name="success">#9D8DF1</color>
+
+    <!-- Logo Blue -->
+    <color name="logo_blue">#D7F0F7</color>
+
+</resources>
